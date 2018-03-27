@@ -1,0 +1,46 @@
+.address{
+    height: 80px;
+    
+}
+.uuu{
+    border-top-style: none !important;
+    border-left-style: hidden !important;
+    border-right-style: hidden !important;
+    border-bottom-style: dotted!important;
+    
+}
+
+.qq{
+    color: blue;
+}
+.signupform{
+  
+    margin-top: 50px;
+    padding: 50px;
+}
+
+
+p{
+    font-size: 50px;
+}
+
+
+.cheading{
+    font-size: 30px;
+    text-align: center !important;
+}
+#num{
+    width: 50px;
+    display: none;
+}
+#num2{
+    width: 50px;
+    display: none;
+}
+#cadd:focus {
+  height: 80px;
+}
+#cadd2:focus {
+  height: 80px;
+}
+
